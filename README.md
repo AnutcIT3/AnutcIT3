@@ -5,8 +5,8 @@
 
 <!-- 2. NÚT HUY CHƯƠNG (BADGES) -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/TEN_USERNAME?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/TEN_USERNAME?label=Stars&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/AnutcIT3?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/AnutcIT3?label=Stars&style=flat-square" />
 </p>
 
 ## About Me
@@ -33,15 +33,15 @@
 
 <p align="center">
   <!-- Thống kê chung -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TEN_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnutcIT3&show_icons=true&theme=tokyonight" width="48%" />
   
   <!-- Ngôn ngữ sử dụng nhiều nhất -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEN_USERNAME&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnutcIT3&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TEN_USERNAME&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnutcIT3&theme=tokyonight" width="100%" />
 </p>
 
 ---

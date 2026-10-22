@@ -1,6 +1,6 @@
 <!-- 1. BANNER DẦU TRANG -->
 <p align="center">
-  <img src="URL_ANH_BANNER_CUA_BAN" alt="Header Banner" width="100%" />
+  Hello, I'm An
 </p>
 
 <!-- 2. NÚT HUY CHƯƠNG (BADGES) -->
@@ -13,8 +13,8 @@
 
 * 🎓 **Education:** Student tại ...
 * ⛓️ **Focus:** ...[cite: 1]
-* 💻 **Tech Stack:** Java, ASP.NET Core, JavaScript,...[cite: 1]
-* 💾 **Databases & DevOps:** SQL Server, Docker,...[cite: 1]
+* 💻 **Tech Stack:** Java, JavaScript,...[cite: 1]
+* 💾 **Databases & DevOps:** SQL Server...[cite: 1]
 
 ---
 
@@ -23,9 +23,9 @@
 | Domain | Technologies |
 | :--- | :--- |
 | **Blockchain** | Cardano, Aiken, MeshJS, Blockfrost |
-| **Backend** | Java, ASP.NET Core MVC, RESTful APIs, EF Core |
+| **Backend** | Java, ASP.NET Core MVC|
 | **Frontend** | HTML5, CSS3, JavaScript, jQuery, Bootstrap |
-| **Database & DevOps** | Oracle DB, MS SQL Server, Docker, Git/GitHub |
+| **Database & DevOps** | MS SQL Server, Git/GitHub |
 
 ---
 

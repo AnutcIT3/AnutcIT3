@@ -11,10 +11,10 @@
 
 ## About Me
 
-* 🎓 **Education:** Student tại ...
-* ⛓️ **Focus:** ...[cite: 1]
-* 💻 **Tech Stack:** Java, JavaScript,...[cite: 1]
-* 💾 **Databases & DevOps:** SQL Server...[cite: 1]
+* 🎓 **Education:** Student tại UTC
+* ⛓️ **Focus:** ...
+* 💻 **Tech Stack:** Java, JavaScript,...
+* 💾 **Databases & DevOps:** SQL Server...
 
 ---
 
